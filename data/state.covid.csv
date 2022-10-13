@@ -1,0 +1,51 @@
+state,Chi-Squared_Case,P-value_Case,Chi-Squared_Death,P-value_Death
+Alabama,10,0.3,34,5.00E-05
+Alaska,8,0.4,86,2.00E-15
+Arizona,36,2.00E-05,12,0.2
+Arkansas,22,0.004,15,0.05
+California,14,0.09,10,0.3
+Colorado,34,4.00E-05,7,0.5
+Connecticut,12,0.1,7,0.6
+Delaware,5,0.7,11,0.2
+Florida,36,2.00E-05,53,1.00E-08
+Georgia,6,0.6,6,0.6
+Hawaii,17,0.03,17,0.03
+Idaho,31,1.00E-04,31,1.00E-04
+Illinois,36,2.00E-05,36,2.00E-05
+Indiana,12,0.2,12,0.2
+Iowa,35,3.00E-05,7,0.6
+Kansas,16,0.05,16,0.04
+Kentucky,19,0.01,8,0.5
+Louisiana,29,3.00E-04,10,0.3
+Maine,84,1.00E-14,87,1.00E-15
+Maryland,66,3.00E-11,11,0.2
+Massachusetts,31,1.00E-04,12,0.2
+Michigan,16,0.05,12,0.2
+Minnesota,52,2.00E-08,12,0.1
+Mississippi,24,0.003,17,0.03
+Missouri,4,0.8,11,0.2
+Montana,21,0.007,41,2.00E-06
+Nebraska,30,2.00E-04,22,0.004
+Nevada,9,0.3,4,0.9
+New Hampshire,42,1.00E-06,23,0.003
+New Jersey,219,2.00E-16,12,0.1
+New Mexico,74,7.00E-13,12,0.1
+New York,146,2.00E-16,55,4.00E-09
+North Carolina,22,0.006,18,0.02
+North Dakota,14,0.08,52,2.00E-08
+Ohio,23,0.003,9,0.4
+Oklahoma,17,0.03,10,0.3
+Oregon,22,0.005,11,0.2
+Pennsylvania,34,4.00E-05,21,0.006
+Rhode Island,5,0.7,17,0.03
+South Carolina,45,3.00E-07,9,0.3
+South Dakota,13,0.1,32,1.00E-04
+Tennessee,28,4.00E-04,9,0.3
+Texas,23,0.004,26,0.001
+Utah,37,1.00E-05,9,0.3
+Vermont,24,0.002,73,1.00E-12
+Virginia,42,1.00E-06,9,0.3
+Washington,18,0.02,31,1.00E-04
+West Virginia,18,0.02,10,0.3
+Wisconsin,29,3.00E-04,32,1.00E-04
+Wyoming,16,0.05,21,0.007
